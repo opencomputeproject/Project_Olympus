@@ -1,4 +1,8 @@
 # Project_Olympus
+
+This directory was used for prelim. releases of Olympus specifications.   All specifications submitted to OCP for consideration can be found at:   http://opencompute.org/products/specsanddesign
+
+
 The specifications, designs as well as all subdirectories found in the directory are licensed under the OWFa1.0 license and it can be found at:http://www.openwebfoundation.org/legal/the-owf-1-0-agreements/owfa-1-0
 Project Olympus
 
